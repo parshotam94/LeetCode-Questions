@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/parshotam94/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/parshotam94/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/parshotam94/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parshotam94/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
