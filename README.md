@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshotam94/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshotam94/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/parshotam94/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/parshotam94/LeetCode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshotam94/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
