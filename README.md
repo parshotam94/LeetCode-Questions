@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parshotam94/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/parshotam94/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parshotam94/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/parshotam94/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshotam94/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
