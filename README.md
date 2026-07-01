@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parshotam94/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/parshotam94/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/parshotam94/LeetCode-Questions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/parshotam94/LeetCode-Questions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/parshotam94/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -223,5 +225,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
