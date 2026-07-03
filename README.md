@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parshotam94/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/parshotam94/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/parshotam94/LeetCode-Questions/tree/master/2090-k-radius-subarray-averages) |
 ## Binary Search
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parshotam94/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshotam94/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1652-defuse-the-bomb](https://github.com/parshotam94/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/parshotam94/LeetCode-Questions/tree/master/2090-k-radius-subarray-averages) |
 ## Bit Manipulation
 |  |
