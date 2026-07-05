@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0784-letter-case-permutation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshotam94/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/parshotam94/LeetCode-Questions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0784-letter-case-permutation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/parshotam94/LeetCode-Questions/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
