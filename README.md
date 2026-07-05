@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/parshotam94/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/parshotam94/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/parshotam94/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
