@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parshotam94/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/parshotam94/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/parshotam94/LeetCode-Questions/tree/master/2090-k-radius-subarray-averages) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/parshotam94/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/parshotam94/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
 |  |
 | ------- |
