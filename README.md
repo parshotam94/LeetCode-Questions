@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/parshotam94/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/parshotam94/LeetCode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/parshotam94/LeetCode-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/parshotam94/LeetCode-Questions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parshotam94/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parshotam94/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/parshotam94/LeetCode-Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/parshotam94/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/parshotam94/LeetCode-Questions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/parshotam94/LeetCode-Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/parshotam94/LeetCode-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/parshotam94/LeetCode-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/parshotam94/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/parshotam94/LeetCode-Questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
