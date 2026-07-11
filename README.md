@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/parshotam94/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/parshotam94/LeetCode-Questions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/parshotam94/LeetCode-Questions/tree/master/0075-sort-colors) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/parshotam94/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/parshotam94/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/parshotam94/LeetCode-Questions/tree/master/0125-valid-palindrome) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/parshotam94/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parshotam94/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/parshotam94/LeetCode-Questions/tree/master/0155-min-stack) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/parshotam94/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/parshotam94/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0070-climbing-stairs) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/parshotam94/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
