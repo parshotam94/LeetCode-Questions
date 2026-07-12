@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/parshotam94/LeetCode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/parshotam94/LeetCode-Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/parshotam94/LeetCode-Questions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/parshotam94/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parshotam94/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/parshotam94/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/parshotam94/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
@@ -343,11 +346,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/parshotam94/LeetCode-Questions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parshotam94/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/parshotam94/LeetCode-Questions/tree/master/0739-daily-temperatures) |
