@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/parshotam94/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parshotam94/LeetCode-Questions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parshotam94/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/parshotam94/LeetCode-Questions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parshotam94/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -371,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/parshotam94/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
