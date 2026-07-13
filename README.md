@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshotam94/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/parshotam94/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parshotam94/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
