@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/parshotam94/LeetCode-Questions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/parshotam94/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/parshotam94/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/parshotam94/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/parshotam94/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/parshotam94/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parshotam94/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/parshotam94/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/parshotam94/LeetCode-Questions/tree/master/0402-remove-k-digits) |
