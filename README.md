@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1029-two-city-scheduling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/parshotam94/LeetCode-Questions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parshotam94/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parshotam94/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/parshotam94/LeetCode-Questions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Database
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/parshotam94/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/parshotam94/LeetCode-Questions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Backtracking
 |  |
 | ------- |
