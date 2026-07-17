@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/parshotam94/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/parshotam94/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/1609-even-odd-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/1609-even-odd-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/parshotam94/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Sliding Window
 |  |
