@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/parshotam94/LeetCode-Questions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/parshotam94/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/parshotam94/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/parshotam94/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/parshotam94/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/parshotam94/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0322-coin-change) |
