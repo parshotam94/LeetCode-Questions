@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0120-triangle) |
+| [0130-surrounded-regions](https://github.com/parshotam94/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/parshotam94/LeetCode-Questions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/parshotam94/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/parshotam94/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parshotam94/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/parshotam94/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/parshotam94/LeetCode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/parshotam94/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/parshotam94/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/parshotam94/LeetCode-Questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/parshotam94/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/parshotam94/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/parshotam94/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/0994-rotting-oranges) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/parshotam94/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [2685-count-the-number-of-complete-components](https://github.com/parshotam94/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
