@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/parshotam94/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/parshotam94/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/parshotam94/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/parshotam94/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/parshotam94/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/parshotam94/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/parshotam94/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0494-target-sum) |
