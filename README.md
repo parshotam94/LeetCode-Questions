@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/parshotam94/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/parshotam94/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/parshotam94/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/parshotam94/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/parshotam94/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/parshotam94/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/parshotam94/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## Stack
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/parshotam94/LeetCode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/parshotam94/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/parshotam94/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
