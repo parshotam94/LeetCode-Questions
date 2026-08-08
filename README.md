@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/parshotam94/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/parshotam94/LeetCode-Questions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1406-stone-game-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parshotam94/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/parshotam94/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/parshotam94/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0997-find-the-town-judge) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parshotam94/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/parshotam94/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Data Stream
 |  |
@@ -578,11 +580,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/parshotam94/LeetCode-Questions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parshotam94/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/parshotam94/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parshotam94/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parshotam94/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Game Theory
 |  |
 | ------- |
@@ -600,4 +604,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/parshotam94/LeetCode-Questions/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/parshotam94/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
