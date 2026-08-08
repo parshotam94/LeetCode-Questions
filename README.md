@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/parshotam94/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/parshotam94/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/parshotam94/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1609-even-odd-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/parshotam94/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Stack
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/parshotam94/LeetCode-Questions/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/parshotam94/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
