@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/parshotam94/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/parshotam94/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/parshotam94/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parshotam94/LeetCode-Questions/tree/master/0739-daily-temperatures) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0784-letter-case-permutation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/parshotam94/LeetCode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parshotam94/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/parshotam94/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/parshotam94/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [1029-two-city-scheduling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/parshotam94/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/parshotam94/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/parshotam94/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/parshotam94/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/parshotam94/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/parshotam94/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
@@ -543,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/parshotam94/LeetCode-Questions/tree/master/0130-surrounded-regions) |
+| [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/parshotam94/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/parshotam94/LeetCode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
