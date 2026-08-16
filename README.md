@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/parshotam94/LeetCode-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/parshotam94/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parshotam94/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/parshotam94/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/parshotam94/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/parshotam94/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -621,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/parshotam94/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/parshotam94/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -633,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Function
 |  |
@@ -696,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
