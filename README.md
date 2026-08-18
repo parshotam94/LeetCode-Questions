@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/parshotam94/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/parshotam94/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -358,10 +360,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/parshotam94/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -714,4 +718,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
