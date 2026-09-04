@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/parshotam94/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/parshotam94/LeetCode-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/parshotam94/LeetCode-Questions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/parshotam94/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/parshotam94/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/parshotam94/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/parshotam94/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
 | [3903-smallest-stable-index-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3903-smallest-stable-index-i) |
