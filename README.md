@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/parshotam94/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/parshotam94/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/parshotam94/LeetCode-Questions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/parshotam94/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/parshotam94/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/parshotam94/LeetCode-Questions/tree/master/0057-insert-interval) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/parshotam94/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/parshotam94/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/parshotam94/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/parshotam94/LeetCode-Questions/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/parshotam94/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/parshotam94/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
