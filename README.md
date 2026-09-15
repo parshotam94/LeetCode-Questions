@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/parshotam94/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/parshotam94/LeetCode-Questions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parshotam94/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/parshotam94/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2140-solving-questions-with-brainpower](https://github.com/parshotam94/LeetCode-Questions/tree/master/2140-solving-questions-with-brainpower) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
