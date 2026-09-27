@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/parshotam94/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/parshotam94/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/parshotam94/LeetCode-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/parshotam94/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/parshotam94/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/parshotam94/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/parshotam94/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/parshotam94/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/parshotam94/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
