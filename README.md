@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/parshotam94/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/parshotam94/LeetCode-Questions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/parshotam94/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshotam94/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/parshotam94/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/parshotam94/LeetCode-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/parshotam94/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/parshotam94/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/parshotam94/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/parshotam94/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0229-majority-element-ii) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/parshotam94/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Function
@@ -828,4 +831,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/parshotam94/LeetCode-Questions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/parshotam94/LeetCode-Questions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
