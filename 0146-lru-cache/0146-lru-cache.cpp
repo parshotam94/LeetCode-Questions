@@ -1,5 +1,5 @@
 class LRUCache {
-private:
+public:
     class Node{
         public:
         int key, value;
@@ -7,63 +7,55 @@ private:
         Node(int key, int value){
             this->key=key;
             this->value=value;
-            prev=nullptr;
-            next=nullptr;
         }
     };
-    Node *head;
-    Node *tail;
+    Node* head= new Node(-1, -1);
+    Node* tail=new Node(-1, -1);
+    int cap;
     unordered_map<int, Node*>mpp;
-    int capacity;
-    void deleteNode(Node *node){
-        Node *prevNode=node->prev;
-        Node *nextNode=node->next;
-        prevNode->next=nextNode;
-        nextNode->prev=prevNode;
+    LRUCache(int capacity) {    
+        cap=capacity;
+        head->next=tail;
+        tail->prev=head;
     }
-    void addNode(Node* node){
+    void insertAfterHead(Node *node){
         Node *temp=head->next;
         node->next=temp;
         node->prev=head;
         head->next=node;
         temp->prev=node;
     }
-    
-public:
-    LRUCache(int capacity) {
-        this->capacity=capacity;
-        head=new Node(-1, -1);
-        tail=new Node(-1, -1);
-        head->next=tail;
-        tail->prev=head;
+    void deleteNode(Node *node){
+        Node *prevNode=node->prev;
+        Node *afterNode=node->next;
+        prevNode->next=afterNode;
+        afterNode->prev=prevNode;
     }
+
     
     int get(int key) {
         if(mpp.find(key)==mpp.end()) return -1;
-        Node *temp=mpp[key];
-        deleteNode(temp);
-        addNode(temp);
-        return temp->value;
+        Node *node=mpp[key];
+        int res=node->value;
+        mpp.erase(key);
+        deleteNode(node);
+        insertAfterHead(node);
+        mpp[key]=head->next;
+        return res;
     }
     
     void put(int key, int value) {
-        //if key is already present;
         if(mpp.find(key)!=mpp.end()){
-            Node *temp=mpp[key];
-            deleteNode(temp);
+            Node *node=mpp[key];
             mpp.erase(key);
-            delete temp;
+            deleteNode(node);
         }
-        //if capacity full
-        if(mpp.size()==capacity){
-            Node *temp=tail->prev;
-            deleteNode(temp);
-            mpp.erase(temp->key);
-            delete temp;
+        if(mpp.size()==cap){
+            mpp.erase(tail->prev->key);
+            deleteNode(tail->prev);
         }
-        Node *newNode=new Node(key, value);
-        mpp[key]=newNode;
-        addNode(newNode);
+        insertAfterHead(new Node(key, value));
+        mpp[key]=head->next;
     }
 };
 
