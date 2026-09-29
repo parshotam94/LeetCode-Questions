@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/parshotam94/LeetCode-Questions/tree/master/0740-delete-and-earn) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/parshotam94/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
