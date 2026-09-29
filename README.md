@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/0542-01-matrix) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/parshotam94/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/parshotam94/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+| [0523-continuous-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/parshotam94/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/parshotam94/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parshotam94/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -878,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/parshotam94/LeetCode-Questions/tree/master/0164-maximum-gap) |
+| [0523-continuous-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 ## DP on Trees
 |  |
 | ------- |
