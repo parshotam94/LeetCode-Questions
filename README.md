@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/parshotam94/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/parshotam94/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/parshotam94/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/parshotam94/LeetCode-Questions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
