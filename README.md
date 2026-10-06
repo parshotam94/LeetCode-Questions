@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parshotam94/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/parshotam94/LeetCode-Questions/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/parshotam94/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/parshotam94/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parshotam94/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/parshotam94/LeetCode-Questions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parshotam94/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parshotam94/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parshotam94/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
