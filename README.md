@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/parshotam94/LeetCode-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/parshotam94/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
+| [1748-sum-of-unique-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/1748-sum-of-unique-elements) |
 | [2090-k-radius-subarray-averages](https://github.com/parshotam94/LeetCode-Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parshotam94/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/parshotam94/LeetCode-Questions/tree/master/1590-make-sum-divisible-by-p) |
+| [1748-sum-of-unique-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/parshotam94/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parshotam94/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1748-sum-of-unique-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
