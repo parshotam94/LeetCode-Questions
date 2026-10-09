@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/parshotam94/LeetCode-Questions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/parshotam94/LeetCode-Questions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/parshotam94/LeetCode-Questions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
