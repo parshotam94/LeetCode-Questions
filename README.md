@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/parshotam94/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1754-largest-merge-of-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1754-largest-merge-of-two-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/parshotam94/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/parshotam94/LeetCode-Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1754-largest-merge-of-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parshotam94/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/parshotam94/LeetCode-Questions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1754-largest-merge-of-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parshotam94/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
