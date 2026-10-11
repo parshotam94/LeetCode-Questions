@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/parshotam94/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2000-reverse-prefix-of-word](https://github.com/parshotam94/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parshotam94/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/parshotam94/LeetCode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2000-reverse-prefix-of-word](https://github.com/parshotam94/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parshotam94/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/parshotam94/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
