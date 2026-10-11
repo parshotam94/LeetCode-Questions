@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/parshotam94/LeetCode-Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/parshotam94/LeetCode-Questions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [2938-separate-black-and-white-balls](https://github.com/parshotam94/LeetCode-Questions/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/parshotam94/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/parshotam94/LeetCode-Questions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [2938-separate-black-and-white-balls](https://github.com/parshotam94/LeetCode-Questions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/parshotam94/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/parshotam94/LeetCode-Questions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2938-separate-black-and-white-balls](https://github.com/parshotam94/LeetCode-Questions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
