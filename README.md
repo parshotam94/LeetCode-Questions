@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/parshotam94/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/parshotam94/LeetCode-Questions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/parshotam94/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parshotam94/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parshotam94/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/parshotam94/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/parshotam94/LeetCode-Questions/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/parshotam94/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
+| [0905-sort-array-by-parity](https://github.com/parshotam94/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1029-two-city-scheduling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
