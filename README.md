@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/parshotam94/LeetCode-Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/parshotam94/LeetCode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/parshotam94/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/parshotam94/LeetCode-Questions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2938-separate-black-and-white-balls](https://github.com/parshotam94/LeetCode-Questions/tree/master/2938-separate-black-and-white-balls) |
