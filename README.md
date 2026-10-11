@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/parshotam94/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1748-sum-of-unique-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/1748-sum-of-unique-elements) |
+| [1813-sentence-similarity-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/1813-sentence-similarity-iii) |
 | [2090-k-radius-subarray-averages](https://github.com/parshotam94/LeetCode-Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/parshotam94/LeetCode-Questions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1754-largest-merge-of-two-strings) |
+| [1813-sentence-similarity-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/1813-sentence-similarity-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/parshotam94/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1813-sentence-similarity-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parshotam94/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/parshotam94/LeetCode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
