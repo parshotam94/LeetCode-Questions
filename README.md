@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parshotam94/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/parshotam94/LeetCode-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3477-fruits-into-baskets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parshotam94/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/parshotam94/LeetCode-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
 | ------- |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/parshotam94/LeetCode-Questions/tree/master/0784-letter-case-permutation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parshotam94/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/parshotam94/LeetCode-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/parshotam94/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
