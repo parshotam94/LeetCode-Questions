@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parshotam94/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/parshotam94/LeetCode-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3477-fruits-into-baskets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/parshotam94/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/parshotam94/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/parshotam94/LeetCode-Questions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/parshotam94/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2938-separate-black-and-white-balls](https://github.com/parshotam94/LeetCode-Questions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/parshotam94/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
 | ------- |
