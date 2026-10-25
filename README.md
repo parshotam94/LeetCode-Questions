@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
 | [1207-unique-number-of-occurrences](https://github.com/parshotam94/LeetCode-Questions/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/parshotam94/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/parshotam94/LeetCode-Questions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parshotam94/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/1406-stone-game-iii) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/parshotam94/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parshotam94/LeetCode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/parshotam94/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/parshotam94/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parshotam94/LeetCode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1609-even-odd-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parshotam94/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/parshotam94/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parshotam94/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
@@ -908,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/parshotam94/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/parshotam94/LeetCode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/parshotam94/LeetCode-Questions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/parshotam94/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parshotam94/LeetCode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parshotam94/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
