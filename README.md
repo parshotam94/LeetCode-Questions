@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/parshotam94/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parshotam94/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/parshotam94/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/parshotam94/LeetCode-Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/parshotam94/LeetCode-Questions/tree/master/0493-reverse-pairs) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/parshotam94/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/parshotam94/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0877-stone-game) |
