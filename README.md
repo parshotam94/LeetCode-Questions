@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/parshotam94/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1748-sum-of-unique-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1813-sentence-similarity-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/1813-sentence-similarity-iii) |
+| [1833-maximum-ice-cream-bars](https://github.com/parshotam94/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/parshotam94/LeetCode-Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1833-maximum-ice-cream-bars](https://github.com/parshotam94/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/parshotam94/LeetCode-Questions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parshotam94/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/parshotam94/LeetCode-Questions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1754-largest-merge-of-two-strings) |
+| [1833-maximum-ice-cream-bars](https://github.com/parshotam94/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parshotam94/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1192,4 +1195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/parshotam94/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/parshotam94/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
