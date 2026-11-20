@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/parshotam94/LeetCode-Questions/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/parshotam94/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0682-baseball-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/parshotam94/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/parshotam94/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0721-accounts-merge) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/parshotam94/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parshotam94/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
@@ -915,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/parshotam94/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/parshotam94/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/parshotam94/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/parshotam94/LeetCode-Questions/tree/master/1094-car-pooling) |
 | [2105-watering-plants-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/2105-watering-plants-ii) |
