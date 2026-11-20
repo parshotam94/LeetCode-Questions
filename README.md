@@ -975,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/parshotam94/LeetCode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/parshotam94/LeetCode-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/parshotam94/LeetCode-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1791-find-center-of-star-graph](https://github.com/parshotam94/LeetCode-Questions/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/parshotam94/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/parshotam94/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/parshotam94/LeetCode-Questions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
