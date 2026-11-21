@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/parshotam94/LeetCode-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/parshotam94/LeetCode-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parshotam94/LeetCode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3477-fruits-into-baskets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parshotam94/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/parshotam94/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parshotam94/LeetCode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/parshotam94/LeetCode-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parshotam94/LeetCode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parshotam94/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parshotam94/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/1609-even-odd-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parshotam94/LeetCode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/parshotam94/LeetCode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/parshotam94/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/parshotam94/LeetCode-Questions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/parshotam94/LeetCode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parshotam94/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/parshotam94/LeetCode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
