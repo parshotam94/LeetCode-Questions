@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/parshotam94/LeetCode-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/parshotam94/LeetCode-Questions/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/parshotam94/LeetCode-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2325-decode-the-message](https://github.com/parshotam94/LeetCode-Questions/tree/master/2325-decode-the-message) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2409-count-days-spent-together](https://github.com/parshotam94/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
