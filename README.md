@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/parshotam94/LeetCode-Questions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/parshotam94/LeetCode-Questions/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/parshotam94/LeetCode-Questions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/parshotam94/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/parshotam94/LeetCode-Questions/tree/master/1873-calculate-special-bonus) |
 ## Math
