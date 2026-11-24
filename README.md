@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/parshotam94/LeetCode-Questions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/parshotam94/LeetCode-Questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/parshotam94/LeetCode-Questions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parshotam94/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3477-fruits-into-baskets-ii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parshotam94/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/parshotam94/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/parshotam94/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/parshotam94/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parshotam94/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parshotam94/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parshotam94/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/parshotam94/LeetCode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/parshotam94/LeetCode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/parshotam94/LeetCode-Questions/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parshotam94/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/parshotam94/LeetCode-Questions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parshotam94/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parshotam94/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bit Manipulation
 |  |
@@ -1212,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parshotam94/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parshotam94/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/parshotam94/LeetCode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Fermat's Little Theorem
 |  |
@@ -1237,4 +1241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/parshotam94/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/parshotam94/LeetCode-Questions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
