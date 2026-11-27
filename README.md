@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/parshotam94/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-shortest-bridge](https://github.com/parshotam94/LeetCode-Questions/tree/master/0934-shortest-bridge) |
 | [0942-di-string-match](https://github.com/parshotam94/LeetCode-Questions/tree/master/0942-di-string-match) |
+| [0962-maximum-width-ramp](https://github.com/parshotam94/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parshotam94/LeetCode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parshotam94/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/0994-rotting-oranges) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/parshotam94/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/parshotam94/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/parshotam94/LeetCode-Questions/tree/master/0942-di-string-match) |
+| [0962-maximum-width-ramp](https://github.com/parshotam94/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/parshotam94/LeetCode-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/parshotam94/LeetCode-Questions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1754-largest-merge-of-two-strings) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parshotam94/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/parshotam94/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/parshotam94/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parshotam94/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parshotam94/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/parshotam94/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/parshotam94/LeetCode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/parshotam94/LeetCode-Questions/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parshotam94/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/parshotam94/LeetCode-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/parshotam94/LeetCode-Questions/tree/master/2281-sum-of-total-strength-of-wizards) |
