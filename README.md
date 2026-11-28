@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/parshotam94/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/parshotam94/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/parshotam94/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/parshotam94/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parshotam94/LeetCode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/parshotam94/LeetCode-Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/parshotam94/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1352-product-of-the-last-k-numbers](https://github.com/parshotam94/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -1247,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/parshotam94/LeetCode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/parshotam94/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
